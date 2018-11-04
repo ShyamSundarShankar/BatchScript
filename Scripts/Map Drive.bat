@@ -1,0 +1,1 @@
+net use s: \\Drive\Folder /user:Shyamsundar.Shankar Abcd@123
